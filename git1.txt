@@ -1,2 +1,3 @@
 my name is ravinder sidh.
-branch computer science.
+branch cse.
+studying at mnit.
